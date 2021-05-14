@@ -1,0 +1,12 @@
+{
+  "name": "simple-app",
+  "displayName": "simple-app",
+  "expo": {
+    "name": "simple-app",
+    "slug": "simple-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
